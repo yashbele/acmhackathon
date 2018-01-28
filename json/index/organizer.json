@@ -1,0 +1,20 @@
+[
+	{
+		"organizerHeading" : "WCE ACM Student Chapter",
+		"description" : " WCE ACM Student Chapter is a group of ignited minds boosted by the technology & computer science who have come together to contribute towards the development of computer community. ",
+		"logo" : "acm",
+		"link" : "https://wce.acm.org/"
+	},
+	{
+		"organizerHeading" : "Department of Computer Science and Engineering, WCE Sangli",
+		"description" : "The department was established in the year 1986 with the introduction of undergraduate programme in Computer Science and Engineering",
+		"logo" : "wce",
+		"link" : "#"
+	},
+	{
+		"organizerHeading" : "Innovation Incubation and Entrepreneurship cell",
+		"description" : "Innovation Incubation and Entrepreneurship cell(IIE) provides platform for the budding entrepreneurs to realize their ideas into products.",
+		"logo" : "vision",
+		"link" : "#"
+	}
+]

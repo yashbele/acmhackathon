@@ -1,0 +1,29 @@
+[
+	{
+		"name" : "Yash Bele",
+		"post" : "Chair, WCE ACM Student Chapter",
+		"detail" : "",
+		"phoneDetails" : "+91 9175120624",
+		"emailDetails" : "ybele@acm.org",
+		"image" : "img/770x860/yash.jpg",
+		"link":"https://in.linkedin.com/in/yash-bele"
+	},
+	{
+		"name" : "Aniket Baad",
+		"post" : "Web Developer, WCE ACM Student Chapter",
+		"detail" : "",
+		"phoneDetails" : "+91 8689988902",
+		"emailDetails" : "aniketbaad@gmail.com",
+		"image" : "img/770x860/aniket.jpg",
+		"link":"https://in.linkedin.com/in/aniket-baad-27b26a122"
+	},
+	{
+		"name" : "Ankush Khobragade",
+		"post" : "Program Director, WCE ACM Student Chapter",
+		"detail" : "",
+		"phoneDetails" : "+91 9405525304",
+		"emailDetails" : "ank-13@hotmail.com",
+		"image" : "img/770x860/ankush.jpg",
+		"link":"https://in.linkedin.com/in/ankush-khobragade-422663113"
+	}
+]

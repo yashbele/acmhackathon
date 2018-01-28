@@ -1,0 +1,21 @@
+[
+	{
+			"question" : "Team Formation Criteria :",
+			"includes" : [
+			"All team members should be from same College. No inter-college teams are allowed. However, members from different branches of the same College/Institute can form a team.",
+			"Each team would be comprise of 3-4 members.",
+			"Clearly communicate the email-ids and mobile numbers of all team members as well."
+		] 
+	},
+	{	
+			"question" : "Idea Submission :",
+			"includes" : [
+			"One team can submit <b>ONLY ONE</b> Idea of a particular domain.",
+			"Submission dates should be strictly followed. No exceptions will be entertained.",
+			"Participants should upload their submission on <a href='domainDesc.php'>[Link]</a>.",
+			"After login, fill in all the required details for submission of the Idea.",
+			"Entries to be sent only in the prescribed format, otherwise they are bound to get rejected."
+		]
+		 
+	}
+]

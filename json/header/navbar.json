@@ -1,0 +1,22 @@
+[
+	{
+		"page": "HOME",
+		"goto": "index.php"
+	},
+	{
+		"page" : "DOMAIN DESCRIPTION",
+		"goto" : "comming.html"
+	},
+	{
+		"page" : "TERMS & CONDITIONS",
+		"goto" : "t&c.php"
+	},
+	{
+		"page" : "FAQs",
+		"goto" : "faq.php"
+	},
+	{
+		"page" : "CONTACT US",
+		"goto" : "contact.php"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"question" : "Who all can register?",
+		"answer" : "Under-graduate students from Engineering, Science or Technology background."
+	},
+	{
+		"question" : "Is there any registration fees for participating?",
+		"answer" : "No"
+	},
+	{
+		"question" : "What kind of Hackathon is this?",
+		"answer" : "This Hackathon gives you the flexibility of using both hardware and software. If there is a need of hardware, teams need to bring their own hardware. Teams would be judged based on their idea as well as implementation."
+	},
+	{
+		"question" : "Haw many people can I have in my team?",
+		"answer" : "Team Size may vary from 3-4 people."
+	},
+	{
+		"question" : "What tracks does this Hackathon include?",
+		"answer" : "Refer Domain description."
+	},
+	{
+		"question" : "What all can I win?",
+		"answer" : "Cash prizes for the top three teams."
+	},
+	{
+		"question" : "What if I get hungry or need internet connection?",
+		"answer" : "We will provide you with delicious food at regular intervals( breakfast,lunch, dinner and snacks). Also, you will be provided with free access to our internet facility."
+	}
+]
