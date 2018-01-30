@@ -7,18 +7,18 @@
 		"guiderLink" : "director@walchandsangli.ac.in"
  	},
  	{
+		"guiderName" : "Dr. B. F. Momin",
+		"guiderPost" : "<br>HoD, Dept. of CSE and Dean, IIE cell",
+		"guiderImage" : "img/770x860/momin.png",
+		"guiderDesc" : "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
+		"guiderLink" : "bfmomin@yahoo.com"
+ 	},
+ 	{
 		"guiderName" : "Dr. P. J. Kulkarni",
 		"guiderPost" : "<br>Former Deputy Director, WCE Sangli",
 		"guiderImage" : "img/770x860/ddirector.jpg",
 		"guiderDesc" : "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
 		"guiderLink" : "pjk_walchand@rediffmail.com"
- 	},
- 	{
-		"guiderName" : "Dr. B. F. Momin",
-		"guiderPost" : "<br>HoD, Dept. of CSE and Dean, IIE cell",
-		"guiderImage" : "img/770x860/ddirector.jpg",
-		"guiderDesc" : "Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor",
-		"guiderLink" : "bfmomin@yahoo.com"
  	},
  	{
 		"guiderName" : "Prof. M. A. Shah",
